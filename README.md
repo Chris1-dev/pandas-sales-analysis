@@ -48,6 +48,6 @@ Sales by Category:
 Clothing: 560
 Electronics: 4900
 
-## Visualization
+## 📊 Visualization
 
-A bar chart is generated showing sales by category.
+![Sales Chart](sales_chart.png)
